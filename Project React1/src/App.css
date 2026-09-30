@@ -1,0 +1,11 @@
+.active
+{
+ background-color: rgb(255, 101, 0);
+ color: white;  
+}
+::selection
+{  
+  background-color: rgb(249, 115, 22);
+  color: white;
+  
+}
